@@ -12,7 +12,7 @@ Accidents can happen anytime and anywhere, and it's crucial to have a system in 
 - **GPS Location Tracking**: Pinpoint the exact location of the accident for rapid response.
 - **User Authentication**: Secure login system to ensure authorized access.
 - **Emergency Contact Integration**: Easily notify emergency contacts in case of an accident.
-- **Admin Dashboard**: Admin interface to manage alerts and monitor system activity.
+- **Google maps new feature**: Through our model and predictions , we provide realtime data to google , so that they can reframe there shortest path according to current situation.
 
 ## How to Use
 
