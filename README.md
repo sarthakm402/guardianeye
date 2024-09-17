@@ -4,7 +4,7 @@ Welcome to the Quick Response Accident Management Alert project! This project ai
 
 ## Overview
 
-Accidents can happen anytime and anywhere, and it's crucial to have a system in place to alert the relevant authorities and emergency services promptly. This project offers a solution to streamline the process of accident management by providing a quick response alert system.
+Accidents can happen anytime and anywhere, and it's crucial to have a system in place to alert the relevant authorities and emergency services promptly. This project offers a solution to streamline the process of accident management by providing a quick response alert system and helping the authorirties in timely manner.
 
 ## Features
 
